@@ -1,0 +1,9 @@
+Package: com.johnnywaity.continuity
+Name: Continuity
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Scrollable Wallpapers
+Maintainer: Johnny Waity
+Author: Johnny Waity
+Section: Tweaks
