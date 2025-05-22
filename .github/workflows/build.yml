@@ -44,6 +44,7 @@ jobs:
                 theos-branch: 'main'
                 sdks-src: 'waruhachi/sdks'
                 sdks-branch: 'main'
+                libgcuniversal: true
                 libgcuniversal-src: 'waruhachi/libgcuniversal'
                 libgcuniversal-branch: 'main'
 
